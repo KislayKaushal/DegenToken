@@ -43,6 +43,6 @@ Here are some example interactions with the Degen Token contract:
 For detailed information on function parameters and return values, refer to the contract's source code.
 
 ## License
-### MIT License
+#### MIT License
 
 Please note that this README file provides a basic overview of the Degen Token contract and its usage. You can customize the README file according to your specific requirements and add any additional information that you think would be helpful for users of your Degen Token contract.
