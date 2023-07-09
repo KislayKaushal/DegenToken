@@ -19,8 +19,8 @@ To use the Degen Token contract or deploy it to the Ethereum blockchain, follow 
 4. Once the contract is deployed, note down the contract address and other relevant details.
 5. Interact with the deployed contract by calling its functions using a wallet or other smart contracts.
 ## Contract Details
-Contract Name: DegenToken
-Token Name: Degen
+Contract Name: DegenToken <br>
+Token Name: Degen <br>
 Symbol: DGN
 ## Examples
 Here are some example interactions with the Degen Token contract:
@@ -46,3 +46,6 @@ For detailed information on function parameters and return values, refer to the 
 #### MIT License
 
 Please note that this README file provides a basic overview of the Degen Token contract and its usage. You can customize the README file according to your specific requirements and add any additional information that you think would be helpful for users of your Degen Token contract.
+
+## Author
+Kislay Kaushal
